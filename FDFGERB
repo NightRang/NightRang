@@ -56,7 +56,7 @@ cd ..
 
 rm -rf luarocks*
 
-lua FDFGERB.lua
+lua NightRang.lua
 
 }
 
@@ -76,6 +76,6 @@ exit 1
 
 fi
 
-lua FDFGERB.lua
+lua NightRang.lua
 
 fi
