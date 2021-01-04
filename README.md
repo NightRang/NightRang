@@ -1,5 +1,4 @@
 # <p align="center" style="color:#cb3349" > [NightRang](https://telegram.me/hlil3)
-# <a href="tg://resolve?domain=hlil3">View in Telegram</a>
 
  <p align="center" style="color: #000040;" > سورس نايترانج الاقوى والاحدث لحمايه المجموعات في التيليقرام
 
@@ -17,3 +16,5 @@ git clone https://github.com/NightRang/NightRang ;cd NightRang ;chmod +x NightRa
 » بعدها يطـلب مـعلومـات بالترمـنال .
 » تدخل مـعلومـاتك مـن توكن ومـعرفك .
 » وسـوف يعمـل البوت .
+```
+# <a align="center" >[View in Telegram](https://telegram.me/hlil3)</a>
