@@ -1,21 +1,18 @@
-- NightRang Source
+# <p align="center" style="color:#cb3349" > [NightRang](https://telegram.me/hlil3)
 
-كود تنصيب السورس
+ <p align="center" style="color: #000040;" > سورس نايترنج الاقوى والاحدث لحمايه المجموعات في التيليقرام
 
-انسخ الكود الاتي : ↓
+***
 
-git clone https://github.com/NightRang/NightRang ;cd NightRang;chmod +x NightRang ; ./NightRang
+# <p align="center" style="color: #000040;" > اوامر التنصيب السورس ↓
+```
+git clone https://github.com/NightRang/NightRang ;cd NightRang ;chmod +x NightRang ; ./NightRang
+```
 
- عند انتهاء التنصيب سيطلب منك 
 
-1⇠ توكن البوت حط التوكن 
-
-2⇠ يطلبك معرف الCarbon
-
- - كود حذف التنصيب :
- 
-rm -rf NightRang
-
- - كود التشغيل في حال انطفاء البوت :
-
-./NightRang/NG
+```
+» فقط أضغط على الكود وقم بنسخه .
+» ثم الصقه بالترمنال وانتر تتنظر يتنصب .
+» بعدها يطـلب مـعلومـات بالترمـنال .
+» تدخل مـعلومـاتك مـن توكن ومـعرفك .
+» وسـوف يعمـل البوت .
