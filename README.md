@@ -1,6 +1,6 @@
 # <p align="center" style="color:#cb3349" > [NightRang](https://telegram.me/hlil3)
 
- <p align="center" style="color: #000040;" > سورس نايترنج الاقوى والاحدث لحمايه المجموعات في التيليقرام
+ <p align="center" style="color: #000040;" > سورس نايترانج الاقوى والاحدث لحمايه المجموعات في التيليقرام
 
 ***
 
